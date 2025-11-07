@@ -1,0 +1,10 @@
+{
+  "name": "Bäckerei Kohlmann",
+  "description": " bread and pastries ",
+  "campus": "INF",
+  "street": "Im Neuenheimer Feld",
+  "houseNumber": "370",
+  "postalCode": "69120",
+  "city": "Heidelberg",
+  "type": "BAKERY"
+}
